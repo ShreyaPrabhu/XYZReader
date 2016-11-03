@@ -6,7 +6,7 @@
     android:layout_height="?actionBarSize"
     android:background="@color/colorPrimary"
     app:popupTheme="@style/Base.ThemeOverlay.AppCompat.Dark"
-    android:elevation="8dp"
+    android:elevation="4dp"
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 

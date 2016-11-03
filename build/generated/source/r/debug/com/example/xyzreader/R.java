@@ -3011,8 +3011,6 @@ containing a value of this type.
         public static final int Animation_AppCompat_Dialog=0x7f080090;
         public static final int Animation_AppCompat_DropDownUp=0x7f080091;
         public static final int Animation_Design_BottomSheetDialog=0x7f080092;
-        /**  Customize your theme here. 
-         */
         public static final int AppTheme=0x7f080039;
         public static final int AppTheme_Base=0x7f080093;
         public static final int Base_AlertDialog_AppCompat=0x7f080094;
