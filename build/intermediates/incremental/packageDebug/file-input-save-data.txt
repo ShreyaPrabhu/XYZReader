@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Nov 04 19:12:51 IST 2016
+#Sat Nov 05 02:13:11 IST 2016
 210.set=ANDROID_RESOURCE
 14.set=ANDROID_RESOURCE
 180.file=C\:\\Users\\Shreya Prabhu\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\list_item_article.xml
